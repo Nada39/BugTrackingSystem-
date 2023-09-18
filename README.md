@@ -1,6 +1,6 @@
 # BugTrackingSystem-
 
-an application help the Tester keeps track of reported software bugs in software development projects and contact with developer.
+an systemhelp the Tester keeps track of reported software bugs in software development projects and contact with developer.
 
 Tester can:
 1- add bug report 
